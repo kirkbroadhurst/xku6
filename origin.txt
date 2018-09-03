@@ -1,0 +1,368 @@
+Uri: http://xku6.com/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/comments/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/wp-content/themes/twentyfourteen/genericons/genericons.css?ver=3.0.2
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\themes\twentyfourteen\genericons\genericons.css
+Content Type: text/css
+
+Uri: http://xku6.com/wp-content/themes/twentyfourteen/style.css?ver=4.3.17
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\themes\twentyfourteen\style.css
+Content Type: text/css
+
+Uri: http://xku6.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://xku6.com/2016/07/18/5-minute-rest-api-docker/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2016\07\18\5-minute-rest-api-docker\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/author/xku6/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\author\xku6\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/2016/03/28/kanye-west-the-businessman/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2016\03\28\kanye-west-the-businessman\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/2015/12/31/debugging-spark-logs-with-yarn/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\12\31\debugging-spark-logs-with-yarn\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/wp-content/uploads/2015/12/spark_000.png
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2015\12\spark_000.png
+Content Type: image/png
+
+Uri: http://xku6.com/wp-content/uploads/2015/12/spark_001.png
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2015\12\spark_001.png
+Content Type: image/png
+
+Uri: http://xku6.com/wp-content/uploads/2015/12/spark_002.png
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2015\12\spark_002.png
+Content Type: image/png
+
+Uri: http://xku6.com/wp-content/uploads/2015/12/spark_003.png
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2015\12\spark_003.png
+Content Type: image/png
+
+Uri: http://xku6.com/wp-content/uploads/2015/12/spark_005_stderr_log.png
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2015\12\spark_005_stderr_log.png
+Content Type: image/png
+
+Uri: http://xku6.com/tag/apache-spark/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\tag\apache-spark\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/2015/08/05/american-health-care-the-medical-industrial-complex/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\08\05\american-health-care-the-medical-industrial-complex\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/wp-content/uploads/2015/05/Life_expectancy_vs_healthcare_spending.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2015\05\Life_expectancy_vs_healthcare_spending.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/2015/04/01/legal_research_automation/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\04\01\legal_research_automation\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/type/link/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\type\link\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/2015/04/01/mining-automation-is-happening/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\04\01\mining-automation-is-happening\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/2015/04/01/48/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\04\01\48\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/2015/03/01/international-competition-after-automation/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\03\01\international-competition-after-automation\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/2015/02/08/the-increasing-automation/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\02\08\the-increasing-automation\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/2014/12/23/what-can-you-do-better-than-a-robot/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2014\12\23\what-can-you-do-better-than-a-robot\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/wp-content/uploads/2014/12/Robot-Worker-300x198.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\12\Robot-Worker-300x198.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/page/2/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\page\2\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/wp-login.php
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-login.html
+Content Type: text/html
+
+Uri: http://xku6.com/wp-includes/js/jquery/jquery.js?ver=1.11.3
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://xku6.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://xku6.com/wp-content/uploads/2015/12/spark_000-300x126.png
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2015\12\spark_000-300x126.png
+Content Type: image/png
+
+Uri: http://xku6.com/wp-content/uploads/2015/12/spark_001-300x147.png
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2015\12\spark_001-300x147.png
+Content Type: image/png
+
+Uri: http://xku6.com/wp-content/uploads/2015/12/spark_002-300x152.png
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2015\12\spark_002-300x152.png
+Content Type: image/png
+
+Uri: http://xku6.com/wp-content/uploads/2015/12/spark_003-300x70.png
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2015\12\spark_003-300x70.png
+Content Type: image/png
+
+Uri: http://xku6.com/wp-content/uploads/2015/12/spark_005_stderr_log-300x142.png
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2015\12\spark_005_stderr_log-300x142.png
+Content Type: image/png
+
+Uri: http://xku6.com/wp-content/themes/twentyfourteen/js/functions.js?ver=20140319
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\themes\twentyfourteen\js\functions.js
+Content Type: application/javascript
+
+Uri: http://xku6.com/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.eot
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\themes\twentyfourteen\genericons\font\genericons-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://xku6.com/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.ttf
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\themes\twentyfourteen\genericons\font\genericons-regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://xku6.com/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.svg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\themes\twentyfourteen\genericons\font\genericons-regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://xku6.com/wp-content/themes/twentyfourteen/images/pattern-light.svg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\themes\twentyfourteen\images\pattern-light.svg
+Content Type: image/svg+xml
+
+Uri: http://xku6.com/wp-content/themes/twentyfourteen/images/pattern-dark.svg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\themes\twentyfourteen\images\pattern-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://xku6.com/2016/07/18/5-minute-rest-api-docker/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2016\07\18\5-minute-rest-api-docker\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/wp-includes/js/comment-reply.min.js?ver=4.3.17
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://xku6.com/author/xku6/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\author\xku6\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/author/xku6/page/2/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\author\xku6\page\2\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/2016/03/28/kanye-west-the-businessman/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2016\03\28\kanye-west-the-businessman\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/2015/12/31/debugging-spark-logs-with-yarn/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\12\31\debugging-spark-logs-with-yarn\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/tag/apache-spark/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\tag\apache-spark\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/2015/08/05/american-health-care-the-medical-industrial-complex/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\08\05\american-health-care-the-medical-industrial-complex\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/2015/04/01/legal_research_automation/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\04\01\legal_research_automation\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/2015/04/01/mining-automation-is-happening/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\04\01\mining-automation-is-happening\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/2015/04/01/48/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\04\01\48\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/2015/03/01/international-competition-after-automation/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\03\01\international-competition-after-automation\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/2015/02/08/the-increasing-automation/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2015\02\08\the-increasing-automation\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/2014/12/23/what-can-you-do-better-than-a-robot/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2014\12\23\what-can-you-do-better-than-a-robot\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/2014/09/10/soylent/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2014\09\10\soylent\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/wp-content/uploads/2014/09/IMG_20140907_145716663.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\09\IMG_20140907_145716663.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/2014/09/03/video-calls-are-free/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2014\09\03\video-calls-are-free\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/2014/08/15/blueberry-jam/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2014\08\15\blueberry-jam\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/type/gallery/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\type\gallery\index.html
+Content Type: text/html
+
+Uri: http://xku6.com/wp-content/uploads/2014/09/IMG_20140907_145716663-e1410307299376-266x300.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\09\IMG_20140907_145716663-e1410307299376-266x300.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_205305686.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_205305686.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-includes/css/buttons.min.css?ver=4.3.17
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: http://xku6.com/wp-includes/css/dashicons.min.css?ver=4.3.17
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: http://xku6.com/wp-admin/css/login.min.css?ver=4.3.17
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: http://xku6.com/2014/09/10/soylent/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2014\09\10\soylent\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/2014/09/10/soylent/?replytocom=11
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2014\09\10\soylent\index-1.html
+Content Type: text/html
+
+Uri: http://xku6.com/2014/09/03/video-calls-are-free/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2014\09\03\video-calls-are-free\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/2014/08/15/blueberry-jam/feed/
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\2014\08\15\blueberry-jam\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_201157043.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_201157043.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_201256757.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_201256757.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_201404471.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_201404471.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_201122961.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_201122961.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_202353106.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_202353106.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_202552244.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_202552244.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_202738775.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_202738775.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_203537989.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_203537989.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_200446865-300x172.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_200446865-300x172.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_201106480-300x137.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_201106480-300x137.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_201157043-300x168.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_201157043-300x168.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_201256757-300x168.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_201256757-300x168.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_201404471-300x168.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_201404471-300x168.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_202353106-300x168.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_202353106-300x168.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_202552244-300x199.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_202552244-300x199.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_202738775-300x168.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_202738775-300x168.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-content/uploads/2014/08/IMG_20140804_203537989-300x168.jpg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-content\uploads\2014\08\IMG_20140804_203537989-300x168.jpeg
+Content Type: image/jpeg
+
+Uri: http://xku6.com/wp-includes/fonts/dashicons.eot
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://xku6.com/wp-includes/fonts/dashicons.ttf
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: http://xku6.com/wp-includes/fonts/dashicons.svg
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-includes\fonts\dashicons.svg
+Content Type: image/svg+xml
+
+Uri: http://xku6.com/wp-admin/images/loading.gif
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: http://xku6.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: http://xku6.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Users\kirkb\OneDrive\Documents\personal\sites\xku6.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
