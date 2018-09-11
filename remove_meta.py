@@ -4,8 +4,13 @@ import re
 from pathlib import Path
 result = list(Path('root').rglob('*.html'))
 
+# remove the meta sidebar
 #pattern = '<aside id="meta-2" class="widget widget_meta">.*(?s)</aside>'
-pattern = '(?s)<span class="comments-link">.*?</span>'
+
+# remove the comments link
+#pattern = '(?s)<span class="comments-link">.*?</span>'
+
+pattern = '(?s)<div id="comments" class="comments-area">.*?<!-- #comments -->'
 regex = re.compile(pattern)
 
 for item in result:
