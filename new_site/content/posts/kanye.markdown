@@ -2,7 +2,8 @@ title: Kanye West- Businessman
 slug: Kanye
 category: Media
 date: 2016-03-28
-tag: kanye-west-the-businessman
+save_as: 2016/03/28/kanye-west-the-businessman/index.html
+url: 2016/03/28/kanye-west-the-businessman/
 
 As of March 28 it still isn’t for sale. Kanye’s newest album, The Life Of Pablo, was “released” on February 14, but not for sale – it could only be heard through the streaming platform Tidal.
 

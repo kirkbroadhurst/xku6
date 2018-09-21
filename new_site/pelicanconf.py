@@ -7,7 +7,7 @@ SITENAME = 'xku6'
 SITEURL = ''
 
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{page}/'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 
 PATH = 'content'
 
@@ -32,6 +32,12 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
+
+STATIC_PATHS = ['images', 'extra/favicon.ico', 'extra/site.webmanifest']
+EXTRA_PATH_METADATA = {
+        'extra/site.webmanifest': {'path': 'site.webmanifest'},
+        'extra/favicon.ico': {'path': 'favicon.ico'}
+}
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

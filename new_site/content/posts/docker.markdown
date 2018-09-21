@@ -1,15 +1,16 @@
 title: 5 Minute Rest API with Docker
-page: 5-minute-rest-api-docker
 slug: Docker
 category: Software
 date: 2016-07-18
+save_as: 2016/07/18/5-minute-rest-api-docker/index.html
+url: 2016/07/18/5-minute-rest-api-docker/
 
 
 Docker is a wonderful technology to manage environment consistency. It delivers on the promise of Vagrant without having to use Vagrant. All the things that you thought you’d be able to do with virtual machines are easy with Docker.
 
 In this post I wanted to see how long it would take me to start a REST API using a Dockerfile. It actually took more than 5 minutes, but if you knew what you were doing it would take even less.
 
-Firstly, a warning: this won’t work on Windows. Docker on Windows is just not worth trying.  
+Firstly, a warning: this won’t work on Windows. Docker on Windows is just not worth trying.
 
 * * *
 
@@ -20,7 +21,7 @@ Firstly, a warning: this won’t work on Windows. Docker on Windows is just not 
 Create a python file like this:
 
 ```
-def application(env, start_response):  
+def application(env, start_response):
     start_response('200 OK', [('Content-Type','text/html')])
     return [b"Hello World"]
 ```
@@ -33,13 +34,13 @@ The Dockerfile is the instruction to docker. It includes all the instructions to
 ```
 FROM ubuntu
 
-RUN apt update  
-RUN apt-get -y install build-essential python-dev  
-RUN apt-get -y install python-pip  
-RUN pip install uwsgi  
+RUN apt update
+RUN apt-get -y install build-essential python-dev
+RUN apt-get -y install python-pip
+RUN pip install uwsgi
 COPY foobar.py /foobar.py
 
-EXPOSE 8011  
+EXPOSE 8011
 CMD uwsgi --http :8011 --wsgi-file foobar.py
 ```
 Line by line, we are
