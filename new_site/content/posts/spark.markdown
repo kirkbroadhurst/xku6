@@ -2,8 +2,8 @@ title: Debugging Spark logs with YARN
 slug: Debugging Spark
 category: Software
 date: 2015-12-31
-save_as: 2015/12/31/debugging_spark_logs_with_yarn/index.html
-url: 2015/12/31/debugging_spark_logs_with_yarn/
+save_as: 2015/12/31/debugging-spark-logs-with-yarn/index.html
+url: 2015/12/31/debugging-spark-logs-with-yarn/
 
 Debugging Spark can be quite painful. The error that you see in your application, or even in your job, might not reflect the underlying problem. Here’s how I dig into the executor logs to find what (might) be really happening.
 

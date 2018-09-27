@@ -2,8 +2,8 @@ title: American Healthcare - the "Medical-Industrial Complex"
 slug: American Healthcare
 category: Opinion
 date: 2015-08-05
-save_as: 2015/08/05/american-health-care-the-medical-industrial/index.html
-url: 2015/08/05/american-health-care-the-medical-industrial/
+save_as: 2015/08/05/american-health-care-the-medical-industrial-complex/index.html
+url: 2015/08/05/american-health-care-the-medical-industrial-complex/
 
 When I first moved to the USA I had the strong impression that the health care system was designed to deliver quality care – the outcomes were good. It’s well acknowledged the the US Healthcare system is the most expensive in the world with annual costs of almost $10k per person, but delivers below OECD average life expectancy.
 

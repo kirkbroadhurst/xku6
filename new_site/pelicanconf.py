@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Kirk Broadhurst'
 SITENAME = 'xku6'
-SITEURL = ''
+SITEURL = 'https://xku6.com'
 
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
@@ -23,13 +23,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'))
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+#         ('Python.org', 'http://python.org/'),
+#         ('Jinja2', 'http://jinja.pocoo.org/'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Github', 'https://github.com/kirkbroadhurst'),
+          ('StackOverflow', 'https://stackoverflow.com/users/146077/kirk-broadhurst'),
+          ('LinkedIn', 'https://www.linkedin.com/in/kirkbroadhurst/'))
 
 DEFAULT_PAGINATION = False
 
