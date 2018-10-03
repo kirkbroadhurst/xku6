@@ -1,4 +1,4 @@
-title: Variables in Lambda functions with CloudFormation
+title: Lambda function environment variables with CloudFormation
 slug: cloudformation-variables
 category: Software
 date: 2018-09-28
@@ -22,13 +22,12 @@ def handle_event(event, context):
 Q: How do we handle environment specific variables? 
 A: Using environment variables! 
 
-### Code that uses environment variables
+## Code that uses environment variables
 
 Luckily we are able to provide environment variables to our Lambda function (via CloudFormation) and access them in the usual Pythonic manner - for example we can include our Lambda function and CloudFormation template in small files such as:
 
 ```python
 #### `handlers.py `
-
 import os
 def handle_event(event, context):
     "Return the variable specified in cloudformation template"  
@@ -36,7 +35,6 @@ def handle_event(event, context):
 ```
 ```yaml
 #### `template.cfn.yml`
-
 AWSTemplateFormatVersion: '2010-09-09'
 Transform: AWS::Serverless-2016-10-31
 
@@ -57,7 +55,7 @@ Some notes on this template:
  - The code for the function is in the same directory as this template, in a module named `handlers`in a method named `handle_event`
  - We are creating an environment variable named `TestValue`
 
-### Deploying
+## Deploying
 
 To run this, make sure you have an IAM user with appropriate access (CloudFormation, S3, and Lambda permissions) and first run a package command:
 ```
@@ -82,6 +80,6 @@ This will
 
 A CloudFormation stack is something like a deployment group, and a way to relate resources back to a specific deployment (which could be an environment or instance).
 
-### Next 
+## Next 
 
 Hardcoding the value of the environment variable is far from ideal. Next post I'll show how to parameterize this within the `deploy` step.
