@@ -25,7 +25,9 @@ phases:
       # - command
   build:
     commands:
-      - pushd new_site && make html && popd
+      - cd new_site 
+      - make html 
+      - cd ..
       # - command
   post_build:
     commands:
